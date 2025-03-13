@@ -1,0 +1,1 @@
+{"FechaRegistro":"2025-03-11T17:10:00.3440194-04:00","Usuario":{"Id":4,"Nombre":"Lia","Apellido":"string","Correo":"lia@example.com","PassWord":"123456789","FechaDeNacimiento":"2025-03-11T21:09:22.551Z"}}
